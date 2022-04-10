@@ -1,7 +1,0 @@
-{
-    "java.format.settings.url": "eclipse-formatter.xml",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\ahmed\\Downloads\\ojdbc10.jar"
-    ]
-}
